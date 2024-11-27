@@ -510,7 +510,7 @@ body {
 }
 
 .contact-form .input-box .send-btn:hover {
-  background: #235bf6;
+  background: #f64196;
 }
 
 .footer {
@@ -531,7 +531,7 @@ body {
 }
 
 .footer p a {
-  color: #3a6cf4;
+  color: #f64196;
   font-weight: 600;
   text-decoration: none;
 }
@@ -574,7 +574,7 @@ body {
   }
 
   header .navigation a:hover {
-    background: #3a6cf4;
+    background: #f64196;
     color: #891616;
     transition: 0.3s ease;
   }
@@ -651,7 +651,7 @@ body {
 .scrollToTop-btn {
   z-index: 999;
   position: fixed;
-  background: #3a6cf4;
+  background: #f64196;
   color: #551d1d;
   width: 45px;
   height: 45px;
