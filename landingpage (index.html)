@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>landingpage clarrita</title>
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="login">
+    <link rel="stylesheet" href="login.html">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
   </head>
   <body>
@@ -20,7 +20,7 @@
         <a href="#main">Home</a>
         <a href="#about">About</a>
         <a href="#skills">Registration</a>
-        <a href="#services">Services</a>
+        <a href="#services">Benefit</a>
         <a href="#work">Event</a>
         <a href="#contact">Contact</a>
       </div>
@@ -258,7 +258,7 @@ STT Nurul Fikri mengadakan Marathon dari 25 hingga 30 November! di Kampus A. Iku
             </div>
             <div class="info">
               <h3>Alamat</h3>
-              <span>CJRPV+QH5, Jl. Setu Indah No.116, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451</span>
+              <span>Lingkungan 02 Citatah dalam Rt 01/Rw 04 Ciriung, Cibinong, Bogor</span>
             </div>
           </div>
           <div class="card reveal">
@@ -266,7 +266,7 @@ STT Nurul Fikri mengadakan Marathon dari 25 hingga 30 November! di Kampus A. Iku
               <i class="fas fa-phone"></i>
             </div>
             <div class="info">
-              <h3>No telp</h3>
+              <h3>Whatsapp</h3>
               <span>089515588729</span>
             </div>
           </div>
